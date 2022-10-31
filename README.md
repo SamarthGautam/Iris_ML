@@ -1,2 +1,8 @@
 # Iris_ML
-Traning the machine learning algorithm to identify the difference between iris flower species.
+Predicting the type of Iris flower.
+
+By traning a machine learning algorithm, we will make prediction between the types of iris species.
+
+There we will try to predict the Sepal length, Petal length, Sepal width, Petal width.
+
+By which we will get the class of flower as an output.
